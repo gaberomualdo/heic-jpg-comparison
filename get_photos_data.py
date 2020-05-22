@@ -31,7 +31,7 @@ for image_title in range(1, image_count + 1):
 	heic_jpg_ratio = round(heic_size / jpg_size, 2);
 
 	final_markdown += generate_markdown_cols([
-		"**`" + str(image_title) + "`** `.jpg`/`.heic`",
+		"**`" + str(image_title) + "`** [`.heic`](./heic/" + str(image_title) + ".heic)/[`.jpg`](./jpg/" + str(image_title) + ".jpg)",
 		str(heic_size) + " kb",
 		str(jpg_size) + " kb",
 		str(heic_jpg_ratio),
