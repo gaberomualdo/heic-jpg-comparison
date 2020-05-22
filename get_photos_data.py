@@ -33,7 +33,7 @@ for image_title in range(1, image_count + 1):
 		str(heic_size) + " kb",
 		str(jpg_size) + " kb",
 		str(heic_jpg_ratio),
-		str(round(1 - heic_jpg_ratio, 2)) + "%"
+		str(round((1 - heic_jpg_ratio) * 100)) + "%"
 	])
 
 print(final_markdown)
