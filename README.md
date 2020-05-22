@@ -8,11 +8,11 @@ Photos with the HEIF (High Efficiency Image File Format) format, stored with the
 
 `get_photos_data.py` generates a table of data of each picture (in markdown) displayed in this README.
 
-In the end, the total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes (\~13.1 mb). The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes (\~26.3 mb). **In the end, the total size of .HEICs was \~49.79% of the size of JPGs.**
+The total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes (\~13.1 mb). The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes (\~26.3 mb). **In the end, the total size of .HEICs was \~49.79% of the size of JPGs.**
 
 MPEG, the creator of the .HEIC file format, reportedly claimed that the HEIC photo format was 50% of the size of a JPG equivalent of the same quality. This test seems to corroborate that claim with a \~49.79% result.
 
-Google's [WebP image format](https://developers.google.com/speed/webp), a popular format for web images, only boasts a 25%-34% size reduction from JPGs, compared to HEIC's 50% size decrease.
+Google's [WebP image format](https://developers.google.com/speed/webp), a popular format for web images, only boasts a 25%-34% size reduction from JPGs, compared to HEIC's \~50% size decrease.
 
 ## Running the Comparison Test Locally
 
