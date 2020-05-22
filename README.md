@@ -6,7 +6,7 @@ Compares the file sizes of the traditional .JPG format and the newer .HEIC forma
 
 `get_photos_data.py` generates a table of data of each picture (in markdown) displayed in this README.
 
-In the end, the total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes. The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes. **In the end, the total size of HEICs was \~49.79% of the size of JPGs.**
+In the end, the total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes (\~13.1 mb). The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes (\~26.3 mb). **In the end, the total size of HEICs was \~49.79% of the size of JPGs.**
 
 MPEG, the creator of the HEIC file format, reportedly claimed that the HEIC photo format was 50% of the size of a JPG equivalent of the same quality. This test seems to corroborate that claim with a \~49.79% result.
 
@@ -549,3 +549,4 @@ Filename | .HEIC size (kb) | .JPG size (kb) | .HEIC:.JPG size ratio | .HEIC size
 **`498`** `.jpg`/`.heic` | 39.41 kb | 186.21 kb | 0.21 | 79%
 **`499`** `.jpg`/`.heic` | 82.72 kb | 99.17 kb | 0.83 | 17%
 **`500`** `.jpg`/`.heic` | 25.56 kb | 33.14 kb | 0.77 | 23%
+**Total:** | 13.1 mb | 26.3 mb | 0.49 | 51%
