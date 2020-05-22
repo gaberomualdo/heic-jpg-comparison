@@ -1,3 +1,5 @@
+# this file does NOT generate the 'total' row with all of the data summed and combined
+
 import os
 import math
 
