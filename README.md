@@ -2,13 +2,15 @@
 
 Compares the file sizes of the traditional .JPG format and the newer .HEIC format.
 
+Photos with the HEIF (High Efficiency Image File Format) format, stored with the .HEIC file extension are significantly smaller than traditional formats like JPG and PNG, but preserve equivalent quality. HEIF was developed and introduced by MPEG, the same group that created the popular .mp3 file format among others.
+
 `get_photos.py` gets 500 JPGs scraped from Pixabay (licensed without attribution required) and adds them to the `jpg` directory. JPGs are then converted to HEICs, and the resulting HEICs are stored in the `heic` directory.
 
 `get_photos_data.py` generates a table of data of each picture (in markdown) displayed in this README.
 
-In the end, the total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes (\~13.1 mb). The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes (\~26.3 mb). **In the end, the total size of HEICs was \~49.79% of the size of JPGs.**
+In the end, the total size of all 500 .HEIC photos in the `heic` directory was 13,111,221 bytes (\~13.1 mb). The total size of all 500 .JPG photos in the `jpg` directory was 26,332,144 bytes (\~26.3 mb). **In the end, the total size of .HEICs was \~49.79% of the size of JPGs.**
 
-MPEG, the creator of the HEIC file format, reportedly claimed that the HEIC photo format was 50% of the size of a JPG equivalent of the same quality. This test seems to corroborate that claim with a \~49.79% result.
+MPEG, the creator of the .HEIC file format, reportedly claimed that the HEIC photo format was 50% of the size of a JPG equivalent of the same quality. This test seems to corroborate that claim with a \~49.79% result.
 
 Google's [WebP image format](https://developers.google.com/speed/webp), a popular format for web images, only boasts a 25%-34% size reduction from JPGs, compared to HEIC's 50% size decrease.
 
