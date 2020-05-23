@@ -1,6 +1,6 @@
 # HEIC-JPG Comparison
 
-![Example comparison of a .JPG with an equivalent .HEIC, with 44% size reduction in the .HEIC version](./comparison.jpg)
+<div align="center">![Example comparison of a .JPG with an equivalent .HEIC, with 44% size reduction in the .HEIC version](./comparison.jpg)</div>
 
 Compares the file sizes of the traditional .JPG format and the newer .HEIC format.
 
