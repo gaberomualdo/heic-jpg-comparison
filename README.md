@@ -2,8 +2,8 @@
 
 Compares the file sizes of the traditional .JPG format and the newer .HEIC format.
 
-Read my article in which this test was featured: [AP Test Submission Problems Show Lack of Developer Adoption of .HEIC File Type
-](https://xtrp.io/blog/2020/05/24/ap-test-submission-problems-show-lack-of-developer-adoption-of-heic-file-type/)
+Read my article in which this test was featured: **[AP Test Submission Problems Show Lack of Developer Adoption of .HEIC File Type
+](https://xtrp.io/blog/2020/05/24/ap-test-submission-problems-show-lack-of-developer-adoption-of-heic-file-type/)**.
 
 <div align="center">
 
