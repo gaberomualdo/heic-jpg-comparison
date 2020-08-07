@@ -47,7 +47,7 @@ Running the `get_photos.py` program may take several minutes, as it is requestin
 
 This code in this repo is licensed under the MIT License (see comment in `get_photos.py`). Photos are from [Pixabay](https://pixabay.com/), and are licensed under the [Pixabay License](https://pixabay.com/service/license/).
 
-The code and programs in this repo were written by [Fred Adams](https://xtrp.io/). Give this repo a ⭐ if you found this interesting.
+The code and programs in this repo were written by [Gabriel Romualdo](https://xtrp.io/). Give this repo a ⭐ if you found this interesting.
 
 ## Raw Data
 
