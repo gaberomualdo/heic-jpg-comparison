@@ -1,12 +1,14 @@
 # HEIC-JPG Comparison
 
+Compares the file sizes of the traditional .JPG format and the newer .HEIC format.
+
+Read my article in which this test was featured: **[AP Test Submission Problems Show Lack of Developer Adoption of .HEIC File Type](https://xtrp.io/blog/2020/05/24/ap-test-submission-problems-show-lack-of-developer-adoption-of-heic-file-type/).**
+
 <div align="center">
 
 ![Example comparison of a .JPG with an equivalent .HEIC, with 44% size reduction in the .HEIC version](./comparison.jpg)
 
 </div>
-
-Compares the file sizes of the traditional .JPG format and the newer .HEIC format.
 
 Photos with the HEIF (High Efficiency Image File Format) format, stored with the .HEIC file extension are significantly smaller than traditional formats like JPG and PNG, but preserve equivalent quality. HEIF was developed and introduced by MPEG, the same group that created the popular .mp3 file format among others.
 
